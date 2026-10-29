@@ -2,11 +2,6 @@
   <img src="assets/github-banner.png" alt="Tanveer Ratul - Full-Stack Software Engineer & ML Researcher" width="100%" />
 </div>
 
-<!-- Banner Image (Replace with your custom Figma/Canva design link) -->
-<div align="center">
-  <img src="https://via.placeholder.com/1500x500.png?text=Your+Custom+Figma+Banner+Here" alt="Tanveer Ratul Banner">
-</div>
-
 <h1 align="center">Hi 👋, I'm Tanveer</h1>
 <h3 align="center">Full-Stack Software Engineer | Machine Learning Researcher | Designer</h3>
 
