@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Tanveer Ratul - Full-Stack Software Engineer & ML Researcher" width="100%" />
+  <img src="assets/github-banner.png" alt="Tanveer Ratul - Full-Stack Software Engineer & ML Researcher" width="100%" />
 </div>
 
 <!-- Banner Image (Replace with your custom Figma/Canva design link) -->
@@ -15,9 +15,9 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK"><strong>Portfolio</strong></a> · 
+  <a href="https://tanveer-ratul-portfolio.vercel.app/"><strong>Portfolio</strong></a> · 
   <a href="YOUR_LINKEDIN_LINK"><strong>LinkedIn</strong></a> · 
-  <a href="mailto:YOUR_EMAIL@example.com"><strong>Email</strong></a>
+  <a href="mailto:tanvirratul18@example.com"><strong>Email</strong></a>
 </p>
 
 ---
